@@ -1,0 +1,480 @@
+﻿new_col,name,number,position,ht,wt,birth_date,birth_country,exp,college,Team_Id,TEAM_ID
+sdsd,Solomon Hill,18,PF,6-Jun,226,18-Mar-91,us,7,Arizona,Atlanta Hawks,1610612737
+dsdsd,Kevin Huerter,3,SG,7-Jun,190,27-Aug-98,us,2,Maryland,Atlanta Hawks,1610612737
+,Trae Young,11,PG,1-Jun,180,19-Sep-98,us,2,Oklahoma,Atlanta Hawks,1610612737
+,John Collins,20,PF,9-Jun,235,23-Sep-97,us,3,Wake Forest,Atlanta Hawks,1610612737
+,Clint Capela,15,C,10-Jun,240,18-May-94,ch,6,,Atlanta Hawks,1610612737
+,Danilo Gallinari,8,PF,10-Jun,233,8-Aug-88,it,11,,Atlanta Hawks,1610612737
+,Onyeka Okongwu,17,C,8-Jun,235,11-Dec-00,us,R,USC,Atlanta Hawks,1610612737
+,Tony Snell,19,SG,6-Jun,213,10-Nov-91,us,7,New Mexico,Atlanta Hawks,1610612737
+,Brandon Goodwin,0,PG,Jun-00,180,2-Oct-95,us,2,"Central Florida, Florida Gulf Coast",Atlanta Hawks,1610612737
+,Bogdan Bogdanović,13,SG,6-Jun,220,18-Aug-92,rs,3,,Atlanta Hawks,1610612737
+,Skylar Mays  (TW),4,SG,4-Jun,205,5-Sep-97,us,R,LSU,Atlanta Hawks,1610612737
+,Nathan Knight  (TW),1,PF,10-Jun,253,20-Sep-97,us,R,William & Mary,Atlanta Hawks,1610612737
+,Cam Reddish,22,SF,8-Jun,218,1-Sep-99,us,1,Duke,Atlanta Hawks,1610612737
+,Lou Williams,6,PG,1-Jun,175,27-Oct-86,us,15,,Atlanta Hawks,1610612737
+,De'Andre Hunter,12,SF,8-Jun,225,2-Dec-97,us,1,Virginia,Atlanta Hawks,1610612737
+,Joe Harris,12,SF,6-Jun,220,6-Sep-91,us,6,Virginia,Brooklyn Nets,1610612751
+,Jeff Green,8,C,8-Jun,235,28-Aug-86,us,12,Georgetown,Brooklyn Nets,1610612751
+,Bruce Brown,1,PG,4-Jun,202,15-Aug-96,us,2,Miami (FL),Brooklyn Nets,1610612751
+,Landry Shamet,"13, 20",SG,4-Jun,190,13-Mar-97,us,2,Wichita State,Brooklyn Nets,1610612751
+,Timothé Luwawu-Cabarrot,9,SF,7-Jun,220,9-May-95,fr,4,,Brooklyn Nets,1610612751
+,DeAndre Jordan,6,C,11-Jun,265,21-Jul-88,us,12,Texas A&M,Brooklyn Nets,1610612751
+,Kyrie Irving,11,PG,2-Jun,195,23-Mar-92,au,9,Duke,Brooklyn Nets,1610612751
+,Tyler Johnson,10,SG,3-Jun,186,7-May-92,us,6,Fresno State,Brooklyn Nets,1610612751
+,James Harden,13,PG,5-Jun,220,26-Aug-89,us,11,Arizona State,Brooklyn Nets,1610612751
+,Kevin Durant,7,PF,10-Jun,240,29-Sep-88,us,12,Texas,Brooklyn Nets,1610612751
+,Nicolas Claxton,33,C,11-Jun,215,17-Apr-99,us,1,Georgia,Brooklyn Nets,1610612751
+,Blake Griffin,2,PF,9-Jun,250,16-Mar-89,us,10,Oklahoma,Brooklyn Nets,1610612751
+,Reggie Perry  (TW),"0, 14",PF,8-Jun,250,21-Mar-00,us,R,Mississippi State,Brooklyn Nets,1610612751
+,Chris Chiozza  (TW),4,PG,11-May,175,21-Nov-95,us,2,Florida,Brooklyn Nets,1610612751
+,Alize Johnson,24,PF,7-Jun,212,22-Apr-96,us,2,Missouri State,Brooklyn Nets,1610612751
+,Mike James,55,PG,1-Jun,189,18-Aug-90,us,1,Lamar,Brooklyn Nets,1610612751
+,Spencer Dinwiddie,26,SG,5-Jun,215,6-Apr-93,us,6,Colorado,Brooklyn Nets,1610612751
+,Payton Pritchard,11,SG,1-Jun,195,28-Jan-98,us,R,Oregon,Boston Celtics,1610612738
+,Jayson Tatum,0,SF,8-Jun,210,3-Mar-98,us,3,Duke,Boston Celtics,1610612738
+,Grant Williams,12,PF,6-Jun,236,30-Nov-98,us,1,Tennessee,Boston Celtics,1610612738
+,Jaylen Brown,7,SG,6-Jun,223,24-Oct-96,us,4,California,Boston Celtics,1610612738
+,Semi Ojeleye,37,PF,6-Jun,240,5-Dec-94,us,3,"Duke, SMU",Boston Celtics,1610612738
+,Robert Williams,44,C,8-Jun,237,17-Oct-97,us,2,Texas A&M,Boston Celtics,1610612738
+,Marcus Smart,36,PG,3-Jun,220,6-Mar-94,us,6,Oklahoma State,Boston Celtics,1610612738
+,Aaron Nesmith,26,SF,5-Jun,215,16-Oct-99,us,R,Vanderbilt,Boston Celtics,1610612738
+,Carsen Edwards,4,SG,11-May,200,12-Mar-98,us,1,Purdue,Boston Celtics,1610612738
+,Tremont Waters  (TW),51,PG,10-May,175,10-Jan-98,us,1,LSU,Boston Celtics,1610612738
+,Tacko Fall  (TW),99,C,5-Jul,311,10-Dec-95,sn,1,Central Florida,Boston Celtics,1610612738
+,Luke Kornet,40,C,2-Jul,250,15-Jul-95,us,3,Vanderbilt,Boston Celtics,1610612738
+,Romeo Langford,45,SG,4-Jun,216,25-Oct-99,us,1,Indiana,Boston Celtics,1610612738
+,Evan Fournier,94,SG,7-Jun,205,29-Oct-92,fr,8,,Boston Celtics,1610612738
+,Jabari Parker,20,PF,8-Jun,245,15-Mar-95,us,6,Duke,Boston Celtics,1610612738
+,Terry Rozier,3,SG,1-Jun,190,17-Mar-94,us,5,Louisville,Charlotte Hornets,1610612766
+,Miles Bridges,0,PF,6-Jun,225,21-Mar-98,us,2,Michigan State,Charlotte Hornets,1610612766
+,Bismack Biyombo,8,C,8-Jun,255,28-Aug-92,cd,9,,Charlotte Hornets,1610612766
+,P.J. Washington,25,PF,7-Jun,230,23-Aug-98,us,1,Kentucky,Charlotte Hornets,1610612766
+,Devonte' Graham,4,PG,1-Jun,195,22-Feb-95,us,2,Kansas,Charlotte Hornets,1610612766
+,Caleb Martin,10,SF,5-Jun,205,28-Sep-95,us,1,"NC State, Nevada",Charlotte Hornets,1610612766
+,Cody Martin,11,SF,5-Jun,205,28-Sep-95,us,1,"NC State, Nevada",Charlotte Hornets,1610612766
+,LaMelo Ball,2,PG,6-Jun,180,22-Aug-01,us,R,,Charlotte Hornets,1610612766
+,Cody Zeller,40,C,11-Jun,240,5-Oct-92,us,7,Indiana,Charlotte Hornets,1610612766
+,Jalen McDaniels,6,SF,9-Jun,205,31-Jan-98,us,1,San Diego State,Charlotte Hornets,1610612766
+,Gordon Hayward,20,SF,7-Jun,225,23-Mar-90,us,10,Butler,Charlotte Hornets,1610612766
+,Malik Monk,1,SG,3-Jun,200,4-Feb-98,us,3,Kentucky,Charlotte Hornets,1610612766
+,Brad Wanamaker,9,PG,3-Jun,210,25-Jul-89,us,2,Pitt,Charlotte Hornets,1610612766
+,Vernon Carey Jr.,22,C,9-Jun,270,25-Feb-01,us,R,Duke,Charlotte Hornets,1610612766
+,Nick Richards,14,PF,Jul-00,245,29-Nov-97,jm,R,Kentucky,Charlotte Hornets,1610612766
+,Grant Riller  (TW),7,PG,2-Jun,190,8-Feb-97,us,R,College of Charleston,Charlotte Hornets,1610612766
+,Nate Darling  (TW),30,SG,6-Jun,200,30-Aug-98,ca,R,"UAB, University of Delaware",Charlotte Hornets,1610612766
+,Patrick Williams,"9, 44",PF,7-Jun,215,26-Aug-01,us,R,Florida State,Chicago Bulls,1610612741
+,Coby White,0,PG,5-Jun,195,16-Feb-00,us,1,UNC,Chicago Bulls,1610612741
+,Thaddeus Young,21,PF,8-Jun,235,21-Jun-88,us,13,Georgia Tech,Chicago Bulls,1610612741
+,Denzel Valentine,45,SG,4-Jun,220,16-Nov-93,us,3,Michigan State,Chicago Bulls,1610612741
+,Zach LaVine,8,SG,5-Jun,200,10-Mar-95,us,6,UCLA,Chicago Bulls,1610612741
+,Tomáš Satoranský,31,SG,7-Jun,210,30-Oct-91,cz,4,,Chicago Bulls,1610612741
+,Garrett Temple,17,SG,5-Jun,195,8-May-86,us,10,LSU,Chicago Bulls,1610612741
+,Lauri Markkanen,24,PF,Jul-00,240,22-May-97,fi,3,Arizona,Chicago Bulls,1610612741
+,Ryan Arcidiacono,51,PG,3-Jun,195,26-Mar-94,us,3,Villanova,Chicago Bulls,1610612741
+,Nikola Vučević,9,C,11-Jun,260,24-Oct-90,ch,9,USC,Chicago Bulls,1610612741
+,Cristiano Felício,6,C,11-Jun,270,7-Jul-92,br,5,,Chicago Bulls,1610612741
+,Javonte Green,11,PG,4-Jun,205,23-Jul-93,us,1,Radford,Chicago Bulls,1610612741
+,Adam Mokoka  (TW),20,SG,4-Jun,190,18-Jul-98,fr,1,,Chicago Bulls,1610612741
+,Troy Brown Jr.,7,SF,6-Jun,215,28-Jul-99,us,2,Oregon,Chicago Bulls,1610612741
+,Devon Dotson  (TW),3,PG,2-Jun,185,2-Aug-99,us,R,Kansas,Chicago Bulls,1610612741
+,Al-Farouq Aminu,5,PF,8-Jun,220,21-Sep-90,us,10,Wake Forest,Chicago Bulls,1610612741
+,Isaac Okoro,35,SG,5-Jun,225,26-Jan-01,us,R,Auburn,Cleveland Cavaliers,1610612739
+,Dean Wade,32,PF,9-Jun,228,20-Nov-96,us,1,Kansas State,Cleveland Cavaliers,1610612739
+,Collin Sexton,2,SG,1-Jun,190,4-Jan-99,us,2,Alabama,Cleveland Cavaliers,1610612739
+,Cedi Osman,16,SF,7-Jun,230,8-Apr-95,mk,3,,Cleveland Cavaliers,1610612739
+,Darius Garland,10,PG,1-Jun,192,26-Jan-00,us,1,Vanderbilt,Cleveland Cavaliers,1610612739
+,Jarrett Allen,31,C,11-Jun,243,21-Apr-98,us,3,Texas,Cleveland Cavaliers,1610612739
+,Damyean Dotson,21,SG,5-Jun,210,6-May-94,us,3,"Oregon, Houston",Cleveland Cavaliers,1610612739
+,Lamar Stevens,8,PF,6-Jun,230,9-Jul-97,us,R,Penn State,Cleveland Cavaliers,1610612739
+,Larry Nance Jr.,22,PF,7-Jun,245,1-Jan-93,us,5,Wyoming,Cleveland Cavaliers,1610612739
+,Dylan Windler,9,SF,6-Jun,196,22-Sep-96,us,R,Belmont,Cleveland Cavaliers,1610612739
+,Taurean Prince,12,PF,7-Jun,218,22-Mar-94,us,4,Baylor,Cleveland Cavaliers,1610612739
+,Brodric Thomas  (TW),33,SG,5-Jun,185,28-Jan-97,us,R,Truman State University,Cleveland Cavaliers,1610612739
+,Kevin Love,0,PF,8-Jun,251,7-Sep-88,us,12,UCLA,Cleveland Cavaliers,1610612739
+,Isaiah Hartenstein,55,C,Jul-00,250,5-May-98,us,2,,Cleveland Cavaliers,1610612739
+,Mfiondu Kabengele,27,PF,9-Jun,250,14-Aug-97,ca,1,Florida State,Cleveland Cavaliers,1610612739
+,Matthew Dellavedova,18,PG,3-Jun,200,8-Sep-90,au,7,Saint Mary's,Cleveland Cavaliers,1610612739
+,Jeremiah Martin  (TW),3,PG,3-Jun,185,19-Jun-96,us,1,Memphis,Cleveland Cavaliers,1610612739
+,Tim Hardaway Jr.,11,SG,5-Jun,205,16-Mar-92,us,7,Michigan,Dallas Mavericks,1610612742
+,Jalen Brunson,13,PG,1-Jun,190,31-Aug-96,us,2,Villanova,Dallas Mavericks,1610612742
+,Luka Dončić,77,PG,7-Jun,230,28-Feb-99,si,2,,Dallas Mavericks,1610612742
+,Trey Burke,3,PG,Jun-00,185,12-Nov-92,us,7,Michigan,Dallas Mavericks,1610612742
+,Dorian Finney-Smith,10,PF,7-Jun,220,4-May-93,us,4,Florida,Dallas Mavericks,1610612742
+,Dwight Powell,7,C,10-Jun,240,20-Jul-91,ca,6,Stanford,Dallas Mavericks,1610612742
+,Willie Cauley-Stein,33,C,Jul-00,240,18-Aug-93,us,5,Kentucky,Dallas Mavericks,1610612742
+,Maxi Kleber,42,PF,10-Jun,240,29-Jan-92,de,3,,Dallas Mavericks,1610612742
+,Kristaps Porziņģis,6,C,3-Jul,240,2-Aug-95,lv,4,,Dallas Mavericks,1610612742
+,Josh Green,8,SG,5-Jun,200,16-Nov-00,au,R,Arizona,Dallas Mavericks,1610612742
+,Boban Marjanović,51,C,4-Jul,290,15-Aug-88,rs,5,,Dallas Mavericks,1610612742
+,Nicolò Melli,44,PF,9-Jun,236,26-Jan-91,it,1,,Dallas Mavericks,1610612742
+,Nate Hinton  (TW),14,SG,5-Jun,210,8-Jun-99,us,R,Houston,Dallas Mavericks,1610612742
+,Tyler Bey  (TW),2,SF,7-Jun,215,10-Feb-98,us,R,Colorado,Dallas Mavericks,1610612742
+,J.J. Redick,17,SG,3-Jun,200,24-Jun-84,us,14,Duke,Dallas Mavericks,1610612742
+,Tyrell Terry,1,PG,2-Jun,160,28-Sep-00,us,R,Stanford,Dallas Mavericks,1610612742
+,Nikola Jokić,15,C,11-Jun,284,19-Feb-95,rs,5,,Denver Nuggets,1610612743
+,Facundo Campazzo,7,PG,10-May,195,23-Mar-91,ar,R,,Denver Nuggets,1610612743
+,Michael Porter Jr.,1,SF,10-Jun,218,29-Jun-98,us,1,Missouri,Denver Nuggets,1610612743
+,JaMychal Green,0,PF,8-Jun,227,21-Jun-90,us,6,Alabama,Denver Nuggets,1610612743
+,Will Barton,5,SF,6-Jun,181,6-Jan-91,us,8,Memphis,Denver Nuggets,1610612743
+,Paul Millsap,4,PF,7-Jun,257,10-Feb-85,us,14,Louisiana Tech,Denver Nuggets,1610612743
+,PJ Dozier,35,SG,6-Jun,205,25-Oct-96,us,3,South Carolina,Denver Nuggets,1610612743
+,Jamal Murray,27,PG,3-Jun,215,23-Feb-97,ca,4,Kentucky,Denver Nuggets,1610612743
+,Monte Morris,11,PG,2-Jun,183,27-Jun-95,us,3,Iowa State,Denver Nuggets,1610612743
+,Zeke Nnaji,22,PF,9-Jun,240,9-Jan-01,us,R,Arizona,Denver Nuggets,1610612743
+,Vlatko Čančar,31,PF,8-Jun,236,10-Apr-97,si,1,,Denver Nuggets,1610612743
+,Markus Howard  (TW),0,SG,10-May,175,3-Mar-99,us,R,Marquette,Denver Nuggets,1610612743
+,Bol Bol,10,PF,2-Jul,220,16-Nov-99,sd,1,Oregon,Denver Nuggets,1610612743
+,Aaron Gordon,50,PF,8-Jun,235,16-Sep-95,us,6,Arizona,Denver Nuggets,1610612743
+,Shaquille Harrison  (TW),3,SG,7-Jun,190,6-Oct-93,us,3,Tulsa,Denver Nuggets,1610612743
+,Austin Rivers,25,SG,4-Jun,200,1-Aug-92,us,8,Duke,Denver Nuggets,1610612743
+,JaVale McGee,34,C,Jul-00,270,19-Jan-88,us,12,Nevada,Denver Nuggets,1610612743
+,Saddiq Bey,41,SF,7-Jun,215,9-Apr-99,us,R,Villanova,Detroit Pistons,1610612765
+,Isaiah Stewart,28,C,8-Jun,250,22-May-01,us,R,Washington,Detroit Pistons,1610612765
+,Josh Jackson,20,SG,8-Jun,207,10-Feb-97,us,3,Kansas,Detroit Pistons,1610612765
+,Mason Plumlee,24,C,11-Jun,254,5-Mar-90,us,7,Duke,Detroit Pistons,1610612765
+,Sekou Doumbouya,45,PF,8-Jun,230,23-Dec-00,gn,1,,Detroit Pistons,1610612765
+,Jerami Grant,9,SF,8-Jun,210,12-Mar-94,us,6,Syracuse,Detroit Pistons,1610612765
+,Saben Lee  (TW),38,PG,2-Jun,183,23-Jun-99,us,R,Vanderbilt,Detroit Pistons,1610612765
+,Wayne Ellington,8,SG,4-Jun,207,29-Nov-87,us,11,UNC,Detroit Pistons,1610612765
+,Frank Jackson  (TW),5,PG,3-Jun,205,4-May-98,us,2,Duke,Detroit Pistons,1610612765
+,Tyler Cook,25,SF,8-Jun,255,23-Sep-97,us,1,Iowa,Detroit Pistons,1610612765
+,Jahlil Okafor,13,C,10-Jun,270,15-Dec-95,us,5,Duke,Detroit Pistons,1610612765
+,Killian Hayes,7,PG,5-Jun,195,27-Jul-01,us,R,,Detroit Pistons,1610612765
+,Hamidou Diallo,6,SF,5-Jun,202,31-Jul-98,us,2,Kentucky,Detroit Pistons,1610612765
+,Dennis Smith Jr.,0,PG,2-Jun,205,25-Nov-97,us,3,NC State,Detroit Pistons,1610612765
+,Deividas Sirvydis,91,SG,8-Jun,190,10-Jun-00,lt,R,,Detroit Pistons,1610612765
+,Cory Joseph,18,PG,3-Jun,200,20-Aug-91,ca,9,Texas,Detroit Pistons,1610612765
+,Rodney McGruder,17,SG,4-Jun,205,29-Jul-91,us,4,Kansas State,Detroit Pistons,1610612765
+,Andrew Wiggins,22,PF,7-Jun,197,23-Feb-95,ca,6,Kansas,Golden State Warriors,1610612744
+,Kent Bazemore,26,SF,4-Jun,195,1-Jul-89,us,8,Old Dominion,Golden State Warriors,1610612744
+,Stephen Curry,30,PG,3-Jun,185,14-Mar-88,us,11,Davidson,Golden State Warriors,1610612744
+,Draymond Green,23,PF,6-Jun,230,4-Mar-90,us,8,Michigan State,Golden State Warriors,1610612744
+,Kevon Looney,5,C,9-Jun,222,6-Feb-96,us,5,UCLA,Golden State Warriors,1610612744
+,Mychal Mulder,15,PG,3-Jun,184,12-Jun-94,ca,1,"Vincennes University, Kentucky",Golden State Warriors,1610612744
+,Damion Lee,1,SG,5-Jun,210,21-Oct-92,us,3,"Drexel, Louisville",Golden State Warriors,1610612744
+,Kelly Oubre Jr.,12,SF,7-Jun,203,9-Dec-95,us,5,Kansas,Golden State Warriors,1610612744
+,Juan Toscano-Anderson,95,SG,6-Jun,209,10-Apr-93,us,1,Marquette,Golden State Warriors,1610612744
+,Jordan Poole,3,SG,4-Jun,194,19-Jun-99,us,1,Michigan,Golden State Warriors,1610612744
+,James Wiseman,33,C,Jul-00,240,31-Mar-01,us,R,Memphis,Golden State Warriors,1610612744
+,Nico Mannion  (TW),2,PG,2-Jun,190,14-Mar-01,it,R,Arizona,Golden State Warriors,1610612744
+,Alen Smailagić,6,PF,10-Jun,215,18-Aug-00,rs,1,,Golden State Warriors,1610612744
+,Gary Payton II,0,PG,3-Jun,190,1-Dec-92,us,4,Oregon State,Golden State Warriors,1610612744
+,Jordan Bell  (TW),20,C,8-Jun,216,7-Jan-95,us,3,Oregon,Golden State Warriors,1610612744
+,Klay Thompson,,SG,6-Jun,215,8-Feb-90,us,8,Washington State,Golden State Warriors,1610612744
+,Jae'Sean Tate,8,SF,4-Jun,230,28-Oct-95,us,R,Ohio State,Houston Rockets,1610612745
+,Sterling Brown,0,SG,5-Jun,219,10-Feb-95,us,3,SMU,Houston Rockets,1610612745
+,Kenyon Martin Jr.,6,SF,6-Jun,215,6-Jan-01,us,R,,Houston Rockets,1610612745
+,Christian Wood,35,C,10-Jun,214,27-Sep-95,us,4,UNLV,Houston Rockets,1610612745
+,John Wall,1,PG,3-Jun,210,6-Sep-90,us,9,Kentucky,Houston Rockets,1610612745
+,Danuel House,4,SF,6-Jun,220,7-Jun-93,us,4,Texas A&M,Houston Rockets,1610612745
+,David Nwaba,2,SF,5-Jun,219,14-Jan-93,us,4,Cal Poly,Houston Rockets,1610612745
+,Kelly Olynyk,41,PF,11-Jun,240,19-Apr-91,ca,7,Gonzaga,Houston Rockets,1610612745
+,Eric Gordon,10,SG,3-Jun,215,25-Dec-88,us,12,Indiana,Houston Rockets,1610612745
+,Kevin Porter Jr.,3,SG,4-Jun,203,4-May-00,us,1,USC,Houston Rockets,1610612745
+,Anthony Lamb  (TW),33,SF,6-Jun,227,20-Jan-98,us,R,University of Vermont,Houston Rockets,1610612745
+,D.J. Wilson,0,PF,10-Jun,231,19-Feb-96,us,3,Michigan,Houston Rockets,1610612745
+,Armoni Brooks  (TW),7,SG,3-Jun,195,5-Jun-98,us,R,Houston,Houston Rockets,1610612745
+,D.J. Augustin,14,PG,11-May,183,10-Nov-87,us,12,Texas,Houston Rockets,1610612745
+,Avery Bradley,9,SG,3-Jun,180,26-Nov-90,us,10,Texas,Houston Rockets,1610612745
+,Khyri Thomas,20,SG,3-Jun,210,8-May-96,us,2,Creighton,Houston Rockets,1610612745
+,Dante Exum,,G,5-Jun,214,13-Jul-95,au,5,,Houston Rockets,1610612745
+,Justin Holiday,8,SG,6-Jun,180,5-Apr-89,us,7,Washington,Indiana Pacers,1610612754
+,T.J. McConnell,9,PG,1-Jun,190,25-Mar-92,us,5,"Duquesne, Arizona",Indiana Pacers,1610612754
+,Doug McDermott,20,PF,7-Jun,225,3-Jan-92,us,6,Creighton,Indiana Pacers,1610612754
+,Domantas Sabonis,11,PF,11-Jun,240,3-May-96,us,4,Gonzaga,Indiana Pacers,1610612754
+,Malcolm Brogdon,7,PG,5-Jun,229,11-Dec-92,us,4,Virginia,Indiana Pacers,1610612754
+,Edmond Sumner,5,SG,4-Jun,196,31-Dec-95,us,3,Xavier,Indiana Pacers,1610612754
+,Myles Turner,33,C,11-Jun,250,24-Mar-96,us,5,Texas,Indiana Pacers,1610612754
+,Goga Bitadze,88,C,11-Jun,250,20-Jul-99,ge,1,,Indiana Pacers,1610612754
+,Jeremy Lamb,26,SG,5-Jun,180,30-May-92,us,8,UConn,Indiana Pacers,1610612754
+,Caris LeVert,22,SG,6-Jun,205,25-Aug-94,us,4,Michigan,Indiana Pacers,1610612754
+,Kelan Martin,21,SF,5-Jun,230,3-Aug-95,us,1,Butler,Indiana Pacers,1610612754
+,JaKarr Sampson,14,PF,7-Jun,214,20-Mar-93,us,5,St. John's,Indiana Pacers,1610612754
+,Cassius Stanley  (TW),2,SG,5-Jun,190,18-Aug-99,us,R,Duke,Indiana Pacers,1610612754
+,Oshae Brissett,12,SF,7-Jun,210,20-Jun-98,ca,1,Syracuse,Indiana Pacers,1610612754
+,Amida Brimah  (TW),37,C,10-Jun,230,11-Feb-94,gh,R,UConn,Indiana Pacers,1610612754
+,T.J. Warren,1,SF,8-Jun,220,5-Sep-93,us,6,NC State,Indiana Pacers,1610612754
+,Ivica Zubac,40,C,Jul-00,240,18-Mar-97,ba,4,,Los Angeles Clippers,1610612746
+,Reggie Jackson,1,SG,2-Jun,208,16-Apr-90,it,9,Boston College,Los Angeles Clippers,1610612746
+,Nicolas Batum,33,SF,8-Jun,230,14-Dec-88,fr,12,,Los Angeles Clippers,1610612746
+,Terance Mann,14,SG,5-Jun,215,18-Oct-96,us,1,Florida State,Los Angeles Clippers,1610612746
+,Luke Kennard,5,SG,5-Jun,206,24-Jun-96,us,3,Duke,Los Angeles Clippers,1610612746
+,Marcus Morris,8,PF,8-Jun,218,2-Sep-89,us,9,Kansas,Los Angeles Clippers,1610612746
+,Paul George,13,SF,8-Jun,220,2-May-90,us,10,Fresno State,Los Angeles Clippers,1610612746
+,Kawhi Leonard,2,SF,7-Jun,225,29-Jun-91,us,9,San Diego State,Los Angeles Clippers,1610612746
+,Amir Coffey  (TW),7,SG,7-Jun,210,17-Jun-97,us,1,Minnesota,Los Angeles Clippers,1610612746
+,Serge Ibaka,9,C,10-Jun,235,18-Sep-89,cg,11,,Los Angeles Clippers,1610612746
+,Patrick Patterson,54,PF,8-Jun,235,14-Mar-89,us,10,Kentucky,Los Angeles Clippers,1610612746
+,Patrick Beverley,21,PG,1-Jun,180,12-Jul-88,us,8,Arkansas,Los Angeles Clippers,1610612746
+,Daniel Oturu,10,C,8-Jun,240,20-Sep-99,us,R,Minnesota,Los Angeles Clippers,1610612746
+,Rajon Rondo,4,PG,1-Jun,180,22-Feb-86,us,14,Kentucky,Los Angeles Clippers,1610612746
+,DeMarcus Cousins,15,C,10-Jun,270,13-Aug-90,us,9,Kentucky,Los Angeles Clippers,1610612746
+,Yogi Ferrell,11,PG,Jun-00,178,9-May-93,us,4,Indiana,Los Angeles Clippers,1610612746
+,Jay Scrubb  (TW),0,SG,5-Jun,220,1-Sep-00,us,R,John A. Logan College,Los Angeles Clippers,1610612746
+,Kyle Kuzma,0,SF,10-Jun,221,24-Jul-95,us,3,Utah,Los Angeles Lakers,1610612747
+,Talen Horton-Tucker,5,SG,4-Jun,234,25-Nov-00,us,1,Iowa State,Los Angeles Lakers,1610612747
+,Dennis Schröder,17,SG,3-Jun,172,15-Sep-93,de,7,,Los Angeles Lakers,1610612747
+,Markieff Morris,88,PF,9-Jun,245,2-Sep-89,us,9,Kansas,Los Angeles Lakers,1610612747
+,Alex Caruso,4,PG,4-Jun,186,28-Feb-94,us,3,Texas A&M,Los Angeles Lakers,1610612747
+,Wesley Matthews,9,SG,4-Jun,220,14-Oct-86,us,11,Marquette,Los Angeles Lakers,1610612747
+,Marc Gasol,14,C,11-Jun,255,29-Jan-85,es,12,,Los Angeles Lakers,1610612747
+,LeBron James,23,PG,9-Jun,250,30-Dec-84,us,17,,Los Angeles Lakers,1610612747
+,Alfonzo McKinnie,28,SF,7-Jun,215,17-Sep-92,us,3,Green Bay,Los Angeles Lakers,1610612747
+,Anthony Davis,3,PF,10-Jun,253,11-Mar-93,us,8,Kentucky,Los Angeles Lakers,1610612747
+,Andre Drummond,2,C,10-Jun,279,10-Aug-93,us,8,UConn,Los Angeles Lakers,1610612747
+,Ben McLemore,7,SG,3-Jun,195,11-Feb-93,us,7,Kansas,Los Angeles Lakers,1610612747
+,Devontae Cacok  (TW),12,PF,7-Jun,240,8-Oct-96,us,1,UNC Wilmington,Los Angeles Lakers,1610612747
+,Kostas Antetokounmpo  (TW),37,PF,10-Jun,200,20-Nov-97,gr,2,Dayton,Los Angeles Lakers,1610612747
+,Jared Dudley,10,PF,6-Jun,237,10-Jul-85,us,13,Boston College,Los Angeles Lakers,1610612747
+,Tyus Jones,21,PG,Jun-00,196,10-May-96,us,5,Duke,Memphis Grizzlies,1610612763
+,Kyle Anderson,1,PF,9-Jun,230,20-Sep-93,us,6,UCLA,Memphis Grizzlies,1610612763
+,Desmond Bane,22,SG,5-Jun,215,25-Jun-98,us,R,TCU,Memphis Grizzlies,1610612763
+,Dillon Brooks,24,SF,7-Jun,225,22-Jan-96,ca,3,Oregon,Memphis Grizzlies,1610612763
+,Ja Morant,12,PG,3-Jun,174,10-Aug-99,us,1,Murray State,Memphis Grizzlies,1610612763
+,Brandon Clarke,15,PF,8-Jun,215,19-Sep-96,ca,1,"San Jose State, Gonzaga",Memphis Grizzlies,1610612763
+,Xavier Tillman Sr.,2,PF,8-Jun,245,12-Jan-99,us,R,Michigan State,Memphis Grizzlies,1610612763
+,De'Anthony Melton,0,PG,2-Jun,200,28-May-98,us,2,USC,Memphis Grizzlies,1610612763
+,John Konchar,46,SG,5-Jun,210,22-Mar-96,us,1,Purdue-Fort Wayne,Memphis Grizzlies,1610612763
+,Justise Winslow,7,SF,6-Jun,222,26-Mar-96,us,5,Duke,Memphis Grizzlies,1610612763
+,Killian Tillie  (TW),35,C,9-Jun,220,5-Mar-98,fr,R,Gonzaga,Memphis Grizzlies,1610612763
+,Sean McDermott  (TW),30,SF,6-Jun,195,3-Nov-96,us,R,Butler,Memphis Grizzlies,1610612763
+,Jaren Jackson Jr.,13,C,11-Jun,242,15-Sep-99,us,2,Michigan State,Memphis Grizzlies,1610612763
+,Jontay Porter,4,PF,11-Jun,240,15-Nov-99,us,R,Missouri,Memphis Grizzlies,1610612763
+,Tim Frazier,10,PG,Jun-00,170,1-Nov-90,us,6,Penn State,Memphis Grizzlies,1610612763
+,Duncan Robinson,55,SF,7-Jun,215,22-Apr-94,us,2,"Williams, Michigan",Miami Heat,1610612748
+,Bam Adebayo,13,C,9-Jun,255,18-Jul-97,us,3,Kentucky,Miami Heat,1610612748
+,Andre Iguodala,28,SF,6-Jun,215,28-Jan-84,us,16,Arizona,Miami Heat,1610612748
+,Precious Achiuwa,5,PF,8-Jun,225,19-Sep-99,ng,R,Memphis,Miami Heat,1610612748
+,Kendrick Nunn,25,PG,2-Jun,190,3-Aug-95,us,1,"Illinois, Oakland",Miami Heat,1610612748
+,Tyler Herro,14,SG,5-Jun,195,20-Jan-00,us,1,Kentucky,Miami Heat,1610612748
+,Jimmy Butler,22,SF,7-Jun,230,14-Sep-89,us,9,Marquette,Miami Heat,1610612748
+,Goran Dragić,7,PG,3-Jun,190,6-May-86,si,12,,Miami Heat,1610612748
+,Gabe Vincent,2,PG,3-Jun,200,14-Jun-96,us,1,UC Santa Barbara,Miami Heat,1610612748
+,Max Strus,31,SF,5-Jun,215,28-Mar-96,us,1,"Lewis (IL), DePaul",Miami Heat,1610612748
+,KZ Okpala,"4, 11",PF,8-Jun,215,28-Apr-99,us,1,Stanford,Miami Heat,1610612748
+,Trevor Ariza,"0, 8",SF,8-Jun,215,30-Jun-85,us,16,UCLA,Miami Heat,1610612748
+,Dewayne Dedmon,21,C,Jul-00,245,12-Aug-89,us,7,USC,Miami Heat,1610612748
+,Nemanja Bjelica,70,PF,10-Jun,234,9-May-88,rs,5,,Miami Heat,1610612748
+,Victor Oladipo,4,SG,4-Jun,213,4-May-92,us,7,Indiana,Miami Heat,1610612748
+,Udonis Haslem,40,C,8-Jun,235,9-Jun-80,us,17,Florida,Miami Heat,1610612748
+,Omer Yurtseven,,C,Jul-00,264,19-Jun-98,tr,R,"NC State, Georgetown",Miami Heat,1610612748
+,Brook Lopez,11,C,Jul-00,282,1-Apr-88,us,12,Stanford,Milwaukee Bucks,1610612749
+,Bryn Forbes,7,SG,2-Jun,205,23-Jul-93,us,4,Michigan State,Milwaukee Bucks,1610612749
+,Pat Connaughton,24,SG,5-Jun,209,6-Jan-93,us,5,Notre Dame,Milwaukee Bucks,1610612749
+,Khris Middleton,22,SF,7-Jun,222,12-Aug-91,us,8,Texas A&M,Milwaukee Bucks,1610612749
+,Bobby Portis,9,C,10-Jun,250,10-Feb-95,us,5,Arkansas,Milwaukee Bucks,1610612749
+,Donte DiVincenzo,0,SG,4-Jun,203,31-Jan-97,us,2,Villanova,Milwaukee Bucks,1610612749
+,Giannis Antetokounmpo,34,PF,11-Jun,242,6-Dec-94,gr,7,,Milwaukee Bucks,1610612749
+,Jrue Holiday,21,PG,3-Jun,205,12-Jun-90,us,11,UCLA,Milwaukee Bucks,1610612749
+,Thanasis Antetokounmpo,43,SF,6-Jun,219,18-Jul-92,gr,2,,Milwaukee Bucks,1610612749
+,Jordan Nwora,13,SF,8-Jun,225,9-Sep-98,us,R,Louisville,Milwaukee Bucks,1610612749
+,Jeff Teague,5,PG,3-Jun,195,10-Jun-88,us,11,Wake Forest,Milwaukee Bucks,1610612749
+,P.J. Tucker,17,PF,5-Jun,245,5-May-85,us,9,Texas,Milwaukee Bucks,1610612749
+,Mamadi Diakite,25,PF,9-Jun,228,21-Jan-97,gn,R,Virginia,Milwaukee Bucks,1610612749
+,Axel Toupane  (TW),66,SF,7-Jun,197,23-Jul-92,fr,2,,Milwaukee Bucks,1610612749
+,Elijah Bryant,3,SG,5-Jun,210,19-Apr-95,us,R,"Elon University, BYU",Milwaukee Bucks,1610612749
+,Justin Jackson  (TW),44,SF,8-Jun,220,28-Mar-95,us,3,UNC,Milwaukee Bucks,1610612749
+,Anthony Edwards,1,SG,4-Jun,225,5-Aug-01,us,R,Georgia,Minnesota Timberwolves,1610612750
+,Naz Reid,11,C,9-Jun,264,26-Aug-99,us,1,LSU,Minnesota Timberwolves,1610612750
+,Ricky Rubio,9,PG,3-Jun,190,21-Oct-90,es,9,,Minnesota Timberwolves,1610612750
+,Jarred Vanderbilt,8,PF,9-Jun,214,3-Apr-99,us,2,Kentucky,Minnesota Timberwolves,1610612750
+,Jaden McDaniels,3,PF,9-Jun,185,29-Sep-00,us,R,Washington,Minnesota Timberwolves,1610612750
+,Josh Okogie,20,SG,4-Jun,213,1-Sep-98,ng,2,Georgia Tech,Minnesota Timberwolves,1610612750
+,Juan Hernangómez,41,PF,9-Jun,214,28-Sep-95,es,4,,Minnesota Timberwolves,1610612750
+,Jordan McLaughlin  (TW),6,PG,11-May,185,9-Apr-96,us,1,USC,Minnesota Timberwolves,1610612750
+,Karl-Anthony Towns,32,C,11-Jun,248,15-Nov-95,us,5,Kentucky,Minnesota Timberwolves,1610612750
+,Jake Layman,10,SF,8-Jun,209,7-Mar-94,us,4,Maryland,Minnesota Timberwolves,1610612750
+,D'Angelo Russell,0,PG,4-Jun,193,23-Feb-96,us,5,Ohio State,Minnesota Timberwolves,1610612750
+,Jaylen Nowell,4,SG,4-Jun,201,9-Jul-99,us,1,Washington,Minnesota Timberwolves,1610612750
+,Malik Beasley,5,SG,4-Jun,187,26-Nov-96,us,4,Florida State,Minnesota Timberwolves,1610612750
+,Jarrett Culver,23,SG,6-Jun,195,20-Feb-99,us,1,Texas Tech,Minnesota Timberwolves,1610612750
+,Ed Davis,17,C,9-Jun,218,5-Jun-89,us,10,UNC,Minnesota Timberwolves,1610612750
+,Zion Williamson,1,PF,7-Jun,284,6-Jul-00,us,1,Duke,New Orleans Pelicans,1610612740
+,Brandon Ingram,14,SF,8-Jun,190,2-Sep-97,us,4,Duke,New Orleans Pelicans,1610612740
+,Jaxson Hayes,10,C,11-Jun,220,23-May-00,us,1,Texas,New Orleans Pelicans,1610612740
+,Lonzo Ball,2,PG,6-Jun,190,27-Oct-97,us,3,UCLA,New Orleans Pelicans,1610612740
+,Kira Lewis Jr.,13,PG,1-Jun,170,6-Apr-01,us,R,Alabama,New Orleans Pelicans,1610612740
+,Josh Hart,3,SF,5-Jun,215,6-Mar-95,us,3,Villanova,New Orleans Pelicans,1610612740
+,Willy Hernangómez,9,C,11-Jun,250,27-May-94,es,4,,New Orleans Pelicans,1610612740
+,Nickeil Alexander-Walker,6,SG,6-Jun,205,2-Sep-98,ca,1,Virginia Tech,New Orleans Pelicans,1610612740
+,Naji Marshall,8,SF,7-Jun,220,24-Jan-98,us,R,Xavier,New Orleans Pelicans,1610612740
+,James Johnson,16,PF,7-Jun,240,20-Feb-87,us,11,Wake Forest,New Orleans Pelicans,1610612740
+,Wenyen Gabriel,32,PF,9-Jun,205,26-Mar-97,sd,1,Kentucky,New Orleans Pelicans,1610612740
+,James Nunnally  (TW),21,SF,7-Jun,208,14-Jul-90,us,2,UC Santa Barbara,New Orleans Pelicans,1610612740
+,Didi Louzada,0,SF,5-Jun,188,7-Feb-99,br,R,,New Orleans Pelicans,1610612740
+,RJ Barrett,9,SG,6-Jun,214,14-Jun-00,ca,1,Duke,New York Knicks,1610612752
+,Julius Randle,30,PF,8-Jun,250,29-Nov-94,us,6,Kentucky,New York Knicks,1610612752
+,Reggie Bullock,25,SF,6-Jun,205,16-Mar-91,us,7,UNC,New York Knicks,1610612752
+,Immanuel Quickley,5,PG,3-Jun,190,17-Jun-99,us,R,Kentucky,New York Knicks,1610612752
+,Nerlens Noel,3,C,11-Jun,220,10-Apr-94,us,6,Kentucky,New York Knicks,1610612752
+,Elfrid Payton,6,PG,3-Jun,195,22-Feb-94,us,6,Louisiana,New York Knicks,1610612752
+,Obi Toppin,1,PF,9-Jun,220,4-Mar-98,us,R,Dayton,New York Knicks,1610612752
+,Alec Burks,18,SG,6-Jun,214,20-Jul-91,us,9,Colorado,New York Knicks,1610612752
+,Taj Gibson,67,PF,9-Jun,232,24-Jun-85,us,11,USC,New York Knicks,1610612752
+,Kevin Knox,20,SF,7-Jun,215,11-Aug-99,us,2,Kentucky,New York Knicks,1610612752
+,Derrick Rose,4,PG,2-Jun,200,4-Oct-88,us,11,Memphis,New York Knicks,1610612752
+,Frank Ntilikina,11,PG,4-Jun,200,28-Jul-98,be,3,,New York Knicks,1610612752
+,Mitchell Robinson,23,C,Jul-00,240,1-Apr-98,us,2,Western Kentucky,New York Knicks,1610612752
+,Theo Pinson  (TW),21,SG,5-Jun,212,5-Nov-95,us,2,UNC,New York Knicks,1610612752
+,Norvel Pelle,14,C,10-Jun,231,3-Feb-93,ag,1,,New York Knicks,1610612752
+,Luca Vildoza,,G,3-Jun,190,11-Aug-95,ar,R,,New York Knicks,1610612752
+,Kenrich Williams,34,PF,6-Jun,210,2-Dec-94,us,2,TCU,Oklahoma City Thunder,1610612760
+,Théo Maledon,11,PG,4-Jun,175,12-Jun-01,fr,R,,Oklahoma City Thunder,1610612760
+,Isaiah Roby,22,PF,8-Jun,230,3-Feb-98,us,1,Nebraska,Oklahoma City Thunder,1610612760
+,Darius Bazley,7,PF,8-Jun,208,12-Jun-00,us,1,,Oklahoma City Thunder,1610612760
+,Luguentz Dort,5,SG,3-Jun,215,19-Apr-99,ca,1,Arizona State,Oklahoma City Thunder,1610612760
+,Aleksej Pokusevski,17,PF,Jul-00,190,26-Dec-01,rs,R,,Oklahoma City Thunder,1610612760
+,Shai Gilgeous-Alexander,2,SG,6-Jun,180,12-Jul-98,ca,2,Kentucky,Oklahoma City Thunder,1610612760
+,Mike Muscala,33,C,10-Jun,240,1-Jul-91,us,7,Bucknell,Oklahoma City Thunder,1610612760
+,Ty Jerome,16,SG,5-Jun,195,8-Jul-97,us,1,Virginia,Oklahoma City Thunder,1610612760
+,Sviatoslav Mykhailiuk,14,SG,7-Jun,205,10-Jun-97,ua,2,Kansas,Oklahoma City Thunder,1610612760
+,Tony Bradley,13,C,10-Jun,248,8-Jan-98,us,3,UNC,Oklahoma City Thunder,1610612760
+,Josh Hall,15,SF,9-Jun,190,8-Oct-00,us,R,,Oklahoma City Thunder,1610612760
+,Jaylen Hoard  (TW),8,SF,8-Jun,216,30-Mar-99,fr,1,Wake Forest,Oklahoma City Thunder,1610612760
+,Gabriel Deck,6,PF,8-Jun,232,8-Feb-95,ar,R,,Oklahoma City Thunder,1610612760
+,Dwayne Bacon,8,SG,6-Jun,221,30-Aug-95,us,3,Florida State,Orlando Magic,1610612753
+,Cole Anthony,50,PG,2-Jun,185,15-May-00,us,R,UNC,Orlando Magic,1610612753
+,Terrence Ross,31,SG,6-Jun,206,5-Feb-91,us,8,Washington,Orlando Magic,1610612753
+,Mo Bamba,5,C,Jul-00,231,12-May-98,us,2,Texas,Orlando Magic,1610612753
+,Chuma Okeke,3,PF,6-Jun,229,18-Aug-98,us,R,Auburn,Orlando Magic,1610612753
+,James Ennis,11,SF,6-Jun,215,1-Jul-90,us,6,Cal State Long Beach,Orlando Magic,1610612753
+,Chasson Randle  (TW),25,PG,2-Jun,185,5-Feb-93,us,3,Stanford,Orlando Magic,1610612753
+,Michael Carter-Williams,7,SG,5-Jun,190,10-Oct-91,us,7,Syracuse,Orlando Magic,1610612753
+,R.J. Hampton,13,SG,4-Jun,175,7-Feb-01,us,R,,Orlando Magic,1610612753
+,Wendell Carter Jr.,34,C,10-Jun,270,16-Apr-99,us,2,Duke,Orlando Magic,1610612753
+,Gary Harris,14,SG,4-Jun,210,14-Sep-94,us,6,Michigan State,Orlando Magic,1610612753
+,Moritz Wagner,21,C,11-Jun,245,26-Apr-97,de,2,Michigan,Orlando Magic,1610612753
+,Markelle Fultz,20,PG,3-Jun,209,29-May-98,us,3,Washington,Orlando Magic,1610612753
+,Ignas Brazdeikis,17,SF,6-Jun,221,8-Jan-99,lt,1,Michigan,Orlando Magic,1610612753
+,Sindarius Thornwell  (TW),12,SG,4-Jun,215,15-Nov-94,us,3,South Carolina,Orlando Magic,1610612753
+,Otto Porter,22,PF,8-Jun,198,3-Jun-93,us,7,Georgetown,Orlando Magic,1610612753
+,Jonathan Isaac,,PF,11-Jun,230,3-Oct-97,us,3,Florida State,Orlando Magic,1610612753
+,Danny Green,14,SF,6-Jun,215,22-Jun-87,us,11,UNC,Philadelphia 76ers,1610612755
+,Dwight Howard,39,C,10-Jun,265,8-Dec-85,us,16,,Philadelphia 76ers,1610612755
+,Matisse Thybulle,22,SG,5-Jun,201,4-Mar-97,us,1,Washington,Philadelphia 76ers,1610612755
+,Shake Milton,18,SG,5-Jun,205,26-Sep-96,us,2,SMU,Philadelphia 76ers,1610612755
+,Tobias Harris,12,PF,8-Jun,226,15-Jul-92,us,9,Tennessee,Philadelphia 76ers,1610612755
+,Tyrese Maxey,0,SG,2-Jun,200,4-Nov-00,us,R,Kentucky,Philadelphia 76ers,1610612755
+,Ben Simmons,25,PG,11-Jun,240,20-Jul-96,au,3,LSU,Philadelphia 76ers,1610612755
+,Seth Curry,31,SG,2-Jun,185,23-Aug-90,us,6,"Liberty, Duke",Philadelphia 76ers,1610612755
+,Furkan Korkmaz,30,SG,7-Jun,202,24-Jul-97,tr,3,,Philadelphia 76ers,1610612755
+,Joel Embiid,21,C,Jul-00,280,16-Mar-94,cm,4,Kansas,Philadelphia 76ers,1610612755
+,Mike Scott,1,PF,7-Jun,237,16-Jul-88,us,8,Virginia,Philadelphia 76ers,1610612755
+,Isaiah Joe,7,SG,4-Jun,165,2-Jul-99,us,R,Arkansas,Philadelphia 76ers,1610612755
+,Paul Reed,44,PF,9-Jun,210,14-Jun-99,us,R,DePaul,Philadelphia 76ers,1610612755
+,George Hill,33,PG,4-Jun,188,4-May-86,us,12,IUPUI,Philadelphia 76ers,1610612755
+,Rayjon Tucker  (TW),9,PG,3-Jun,209,24-Sep-97,us,1,"Florida Gulf Coast, Little Rock",Philadelphia 76ers,1610612755
+,Anthony Tolliver,43,PF,8-Jun,240,1-Jun-85,us,12,Creighton,Philadelphia 76ers,1610612755
+,Gary Clark  (TW),11,PF,6-Jun,225,16-Nov-94,us,2,Cincinnati,Philadelphia 76ers,1610612755
+,Mikal Bridges,25,SF,6-Jun,209,30-Aug-96,us,2,Villanova,Phoenix Suns,1610612756
+,Chris Paul,3,PG,Jun-00,175,6-May-85,us,15,Wake Forest,Phoenix Suns,1610612756
+,Deandre Ayton,22,C,11-Jun,250,23-Jul-98,bs,2,Arizona,Phoenix Suns,1610612756
+,Devin Booker,1,SG,5-Jun,206,30-Oct-96,us,5,Kentucky,Phoenix Suns,1610612756
+,Jae Crowder,99,PF,6-Jun,235,6-Jul-90,us,8,Marquette,Phoenix Suns,1610612756
+,Cameron Johnson,23,PF,8-Jun,210,3-Mar-96,us,1,"Pitt, UNC",Phoenix Suns,1610612756
+,Cameron Payne,15,PG,1-Jun,183,8-Aug-94,us,5,Murray State,Phoenix Suns,1610612756
+,Jevon Carter,4,PG,1-Jun,200,14-Sep-95,us,2,West Virginia,Phoenix Suns,1610612756
+,Dario Šarić,20,C,10-Jun,225,8-Apr-94,hr,4,,Phoenix Suns,1610612756
+,Frank Kaminsky,8,C,Jul-00,240,4-Apr-93,us,5,Wisconsin,Phoenix Suns,1610612756
+,Langston Galloway,2,SG,1-Jun,200,9-Dec-91,us,6,Saint Joseph's,Phoenix Suns,1610612756
+,Torrey Craig,12,SF,7-Jun,221,19-Dec-90,us,3,USC Upstate,Phoenix Suns,1610612756
+,E'Twaun Moore,55,SG,3-Jun,191,25-Feb-89,us,9,Purdue,Phoenix Suns,1610612756
+,Jalen Smith,10,PF,10-Jun,215,16-Mar-00,us,R,Maryland,Phoenix Suns,1610612756
+,Abdel Nader,11,SF,5-Jun,225,25-Sep-93,eg,3,"Northern Illinois, Iowa State",Phoenix Suns,1610612756
+,Ty-Shon Alexander  (TW),0,SG,3-Jun,195,16-Jul-98,us,R,Creighton,Phoenix Suns,1610612756
+,Enes Kanter,11,C,10-Jun,250,20-May-92,ch,9,,Portland Trail Blazers,1610612757
+,Robert Covington,23,PF,7-Jun,209,14-Dec-90,us,7,Tennessee State,Portland Trail Blazers,1610612757
+,Carmelo Anthony,0,PF,7-Jun,238,29-May-84,us,17,Syracuse,Portland Trail Blazers,1610612757
+,Damian Lillard,0,PG,2-Jun,195,15-Jul-90,us,8,Weber State,Portland Trail Blazers,1610612757
+,Anfernee Simons,1,SG,3-Jun,181,8-Jun-99,us,2,,Portland Trail Blazers,1610612757
+,Derrick Jones Jr.,"5, 55",SF,5-Jun,210,15-Feb-97,us,4,UNLV,Portland Trail Blazers,1610612757
+,Nassir Little,9,PF,5-Jun,220,11-Feb-00,us,1,UNC,Portland Trail Blazers,1610612757
+,CJ McCollum,3,SG,3-Jun,190,19-Sep-91,us,7,Lehigh,Portland Trail Blazers,1610612757
+,Harry Giles,4,C,11-Jun,240,22-Apr-98,us,2,Duke,Portland Trail Blazers,1610612757
+,Jusuf Nurkić,27,C,11-Jun,290,23-Aug-94,ba,6,,Portland Trail Blazers,1610612757
+,CJ Elleby,16,SF,6-Jun,200,16-Jun-00,us,R,Washington State,Portland Trail Blazers,1610612757
+,Norman Powell,24,SF,3-Jun,215,25-May-93,us,5,UCLA,Portland Trail Blazers,1610612757
+,Keljin Blevins  (TW),21,SF,4-Jun,200,24-Nov-95,us,R,"Southern Miss, Montana State",Portland Trail Blazers,1610612757
+,Rondae Hollis-Jefferson,2,PF,6-Jun,217,3-Jan-95,us,5,Arizona,Portland Trail Blazers,1610612757
+,T.J. Leaf  (TW),18,PF,10-Jun,222,30-Apr-97,il,3,UCLA,Portland Trail Blazers,1610612757
+,Zach Collins,,PF,11-Jun,250,19-Nov-97,us,3,Gonzaga,Portland Trail Blazers,1610612757
+,Buddy Hield,24,SG,4-Jun,220,17-Dec-92,bs,4,Oklahoma,Sacramento Kings,1610612758
+,Richaun Holmes,22,C,10-Jun,235,15-Oct-93,us,5,Bowling Green,Sacramento Kings,1610612758
+,De'Aaron Fox,5,PG,3-Jun,185,20-Dec-97,us,3,Kentucky,Sacramento Kings,1610612758
+,Harrison Barnes,40,PF,8-Jun,225,30-May-92,us,8,UNC,Sacramento Kings,1610612758
+,Tyrese Haliburton,0,PG,5-Jun,185,29-Feb-00,us,R,Iowa State,Sacramento Kings,1610612758
+,Marvin Bagley III,35,PF,11-Jun,235,14-Mar-99,us,2,Duke,Sacramento Kings,1610612758
+,Hassan Whiteside,20,C,Jul-00,265,13-Jun-89,us,8,Marshall,Sacramento Kings,1610612758
+,Chimezie Metu,25,C,9-Jun,225,22-Mar-97,us,2,USC,Sacramento Kings,1610612758
+,Justin James,10,SF,7-Jun,190,24-Jan-97,us,1,Wyoming,Sacramento Kings,1610612758
+,Kyle Guy  (TW),7,PG,1-Jun,167,11-Aug-97,us,1,Virginia,Sacramento Kings,1610612758
+,Terence Davis,9,SG,4-Jun,201,16-May-97,us,1,Ole Miss,Sacramento Kings,1610612758
+,Maurice Harkless,8,PF,7-Jun,220,11-May-93,us,8,St. John's,Sacramento Kings,1610612758
+,Damian Jones,15,C,11-Jun,245,30-Jun-95,us,4,Vanderbilt,Sacramento Kings,1610612758
+,Jahmi'us Ramsey,3,SG,3-Jun,190,9-Jun-01,us,R,Texas Tech,Sacramento Kings,1610612758
+,Robert Woodard,13,SF,6-Jun,235,22-Sep-99,us,R,Mississippi State,Sacramento Kings,1610612758
+,Keldon Johnson,3,SF,5-Jun,220,11-Oct-99,us,1,Kentucky,San Antonio Spurs,1610612759
+,Jakob Poeltl,25,C,1-Jul,245,15-Oct-95,at,4,Utah,San Antonio Spurs,1610612759
+,Patty Mills,8,PG,1-Jun,180,11-Aug-88,au,11,Saint Mary's,San Antonio Spurs,1610612759
+,Dejounte Murray,5,PG,4-Jun,180,19-Sep-96,us,3,Washington,San Antonio Spurs,1610612759
+,Rudy Gay,22,PF,8-Jun,250,17-Aug-86,us,14,UConn,San Antonio Spurs,1610612759
+,Devin Vassell,24,SF,5-Jun,200,23-Aug-00,us,R,Florida State,San Antonio Spurs,1610612759
+,DeMar DeRozan,10,PF,6-Jun,220,7-Aug-89,us,11,USC,San Antonio Spurs,1610612759
+,Lonnie Walker,1,SG,4-Jun,204,14-Dec-98,us,2,Miami (FL),San Antonio Spurs,1610612759
+,Drew Eubanks,14,C,9-Jun,245,1-Feb-97,us,2,Oregon State,San Antonio Spurs,1610612759
+,Tre Jones,33,PG,1-Jun,185,8-Jan-00,us,R,Duke,San Antonio Spurs,1610612759
+,Derrick White,4,SG,4-Jun,190,2-Jul-94,us,3,"Colorado-Colorado Springs, Colorado",San Antonio Spurs,1610612759
+,Luka Šamanić,19,PF,10-Jun,227,9-Jan-00,hr,1,,San Antonio Spurs,1610612759
+,Keita Bates-Diop  (TW),31,SF,8-Jun,229,23-Jan-96,us,2,Ohio State,San Antonio Spurs,1610612759
+,Trey Lyles,41,PF,9-Jun,234,5-Nov-95,ca,5,Kentucky,San Antonio Spurs,1610612759
+,Quinndary Weatherspoon  (TW),15,SG,3-Jun,205,10-Sep-96,us,1,Mississippi State,San Antonio Spurs,1610612759
+,Gorgui Dieng,7,C,10-Jun,252,18-Jan-90,sn,7,Louisville,San Antonio Spurs,1610612759
+,DaQuan Jeffries,,G-F,5-Jun,230,30-Aug-97,us,1,"Oral Roberts, Tulsa",San Antonio Spurs,1610612759
+,Stanley Johnson,5,PF,6-Jun,242,29-May-96,us,5,Arizona,Toronto Raptors,1610612761
+,Chris Boucher,25,C,9-Jun,200,11-Jan-93,lc,3,Oregon,Toronto Raptors,1610612761
+,Pascal Siakam,43,PF,9-Jun,230,2-Apr-94,cm,4,New Mexico State,Toronto Raptors,1610612761
+,Aron Baynes,46,C,10-Jun,260,9-Dec-86,nz,8,Washington State,Toronto Raptors,1610612761
+,Fred VanVleet,23,SG,1-Jun,197,25-Feb-94,us,4,Wichita State,Toronto Raptors,1610612761
+,DeAndre' Bembry,95,SF,5-Jun,210,4-Jul-94,us,4,Saint Joseph's,Toronto Raptors,1610612761
+,Yuta Watanabe,18,SF,9-Jun,215,13-Oct-94,jp,2,George Washington,Toronto Raptors,1610612761
+,Malachi Flynn,8,PG,1-Jun,175,10-May-98,us,R,"Washington State, San Diego State",Toronto Raptors,1610612761
+,Kyle Lowry,7,PG,Jun-00,196,25-Mar-86,us,14,Villanova,Toronto Raptors,1610612761
+,OG Anunoby,3,SF,7-Jun,232,17-Jul-97,gb,3,Indiana,Toronto Raptors,1610612761
+,Paul Watson,1,SF,6-Jun,210,30-Dec-94,us,1,Fresno State,Toronto Raptors,1610612761
+,Freddie Gillespie,55,PF,9-Jun,245,14-Jun-97,us,R,"Carleton College, Baylor",Toronto Raptors,1610612761
+,Khem Birch,24,C,9-Jun,233,28-Sep-92,ca,3,"Pitt, UNLV",Toronto Raptors,1610612761
+,Gary Trent Jr.,33,SG,5-Jun,209,18-Jan-99,us,2,Duke,Toronto Raptors,1610612761
+,Rodney Hood,32,SF,8-Jun,208,20-Oct-92,us,6,"Mississippi State, Duke",Toronto Raptors,1610612761
+,Jalen Harris  (TW),2,SG,5-Jun,195,14-Aug-98,us,R,"Nevada, Louisiana Tech",Toronto Raptors,1610612761
+,Bojan Bogdanović,44,SF,7-Jun,226,18-Apr-89,ba,6,,Utah Jazz,1610612762
+,Georges Niang,31,PF,7-Jun,230,17-Jun-93,us,4,Iowa State,Utah Jazz,1610612762
+,Rudy Gobert,27,C,1-Jul,258,26-Jun-92,fr,7,,Utah Jazz,1610612762
+,Royce O'Neale,23,SF,4-Jun,226,5-Jun-93,us,3,"Denver, Baylor",Utah Jazz,1610612762
+,Jordan Clarkson,0,SG,4-Jun,194,7-Jun-92,us,6,"Tulsa, Missouri",Utah Jazz,1610612762
+,Joe Ingles,2,SF,8-Jun,220,2-Oct-87,au,6,,Utah Jazz,1610612762
+,Miye Oni,81,SG,5-Jun,206,4-Aug-97,us,1,Yale,Utah Jazz,1610612762
+,Donovan Mitchell,45,PG,1-Jun,215,7-Sep-96,us,3,Louisville,Utah Jazz,1610612762
+,Mike Conley,10,PG,1-Jun,175,11-Oct-87,us,13,Ohio State,Utah Jazz,1610612762
+,Trent Forrest  (TW),3,PG,4-Jun,210,12-Jun-98,us,R,Florida State,Utah Jazz,1610612762
+,Juwan Morgan,16,PF,7-Jun,232,17-Apr-97,us,1,Indiana,Utah Jazz,1610612762
+,Jarrell Brantley  (TW),5,PF,5-Jun,250,7-Jun-96,us,1,College of Charleston,Utah Jazz,1610612762
+,Matt Thomas,21,SG,4-Jun,190,4-Aug-94,us,1,Iowa State,Utah Jazz,1610612762
+,Elijah Hughes,33,SF,5-Jun,215,10-Mar-98,us,R,"Syracuse, East Carolina University",Utah Jazz,1610612762
+,Ersan İlyasova,77,PF,9-Jun,235,15-May-87,tr,12,,Utah Jazz,1610612762
+,Udoka Azubuike,20,C,10-Jun,280,17-Sep-99,ng,R,Kansas,Utah Jazz,1610612762
+,Robin Lopez,15,C,Jul-00,281,1-Apr-88,us,12,Stanford,Washington Wizards,1610612764
+,Raul Neto,19,PG,1-Jun,180,19-May-92,br,5,,Washington Wizards,1610612764
+,Garrison Mathews  (TW),24,SG,5-Jun,215,24-Oct-96,us,1,Lipscomb,Washington Wizards,1610612764
+,Bradley Beal,3,SG,3-Jun,207,28-Jun-93,us,8,Florida,Washington Wizards,1610612764
+,Rui Hachimura,8,PF,8-Jun,230,8-Feb-98,jp,1,Gonzaga,Washington Wizards,1610612764
+,Dāvis Bertāns,42,PF,10-Jun,225,12-Nov-92,lv,4,,Washington Wizards,1610612764
+,Alex Len,27,C,Jul-00,250,16-Jun-93,ua,7,Maryland,Washington Wizards,1610612764
+,Deni Avdija,9,SF,9-Jun,210,3-Jan-01,il,R,,Washington Wizards,1610612764
+,Ish Smith,14,PG,Jun-00,175,5-Jul-88,us,10,Wake Forest,Washington Wizards,1610612764
+,Isaac Bonga,17,SF,8-Jun,180,8-Nov-99,de,2,,Washington Wizards,1610612764
+,Anthony Gill,16,PF,7-Jun,230,17-Oct-92,us,R,"South Carolina, Virginia",Washington Wizards,1610612764
+,Daniel Gafford,21,C,10-Jun,234,1-Oct-98,us,1,Arkansas,Washington Wizards,1610612764
+,Cassius Winston  (TW),5,PG,1-Jun,185,28-Feb-98,us,R,Michigan State,Washington Wizards,1610612764
+,Thomas Bryant,13,C,10-Jun,248,31-Jul-97,us,3,Indiana,Washington Wizards,1610612764
+,Caleb Homesley,,G,6-Jun,205,27-Nov-96,us,R,Liberty,Washington Wizards,1610612764
